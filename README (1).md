@@ -1,3 +1,6 @@
+# TryHackMe-High-Point-List
+
+
 1. It takes Ryans (0days completed room) to get a list of room codes. (He hasn't done all the rooms, so I could run it against someone else or pull them another way)
 2. It requests each rooms leaderboard API to find the points for each. 
 
